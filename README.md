@@ -1,5 +1,7 @@
 # Enterprise Zero-Knowledge Flight Recorder | MCP Boilerplate
 
+> **Read the full architectural breakdown:** [How to Make Autonomous AI Agents EU AI Act-Compliant Using Groth16 Proofs and Stripe](https://bitcoinstratigraphy.com/blog/eu-ai-act-compliance-agents/)
+
 **An audit-ready starting point for enterprise AI agents—not another logging dashboard.**
 
 Drop-in Python and LangChain boilerplate for enterprise developers building
