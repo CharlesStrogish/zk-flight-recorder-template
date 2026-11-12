@@ -2,6 +2,8 @@
 
 > **Read the full architectural breakdown:** [How to Make Autonomous AI Agents EU AI Act-Compliant Using Groth16 Proofs and Stripe](https://bitcoinstratigraphy.com/blog/eu-ai-act-compliance-agents/)
 
+[![Bitcoin Stratigraphy Enterprise Data Engine & Agent Notary Hub MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.bitcoinstratigraphy/bitcoin-stratigraphy-enterprise-data-engine-and-agent-notary-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.bitcoinstratigraphy/bitcoin-stratigraphy-enterprise-data-engine-and-agent-notary-hub)
+
 **An audit-ready starting point for enterprise AI agents—not another logging dashboard.**
 
 Drop-in Python and LangChain boilerplate for enterprise developers building
