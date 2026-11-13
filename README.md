@@ -4,6 +4,19 @@
 
 [![Bitcoin Stratigraphy Enterprise Data Engine & Agent Notary Hub MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.bitcoinstratigraphy/bitcoin-stratigraphy-enterprise-data-engine-and-agent-notary-hub/badges/score.svg)](https://glama.ai/mcp/connectors/com.bitcoinstratigraphy/bitcoin-stratigraphy-enterprise-data-engine-and-agent-notary-hub)
 
+```mermaid
+graph TD
+    A[Autonomous Agent Swarm<br>LangChain / CrewAI] -->|Inject L402 Macaroon| B(Bitcoin Stratigraphy MCP Notary Hub)
+    B -->|NIP-98 Ed25519 Auth| C{Enterprise Security Layer}
+    C -->|SHA-256 Hashcash| D[DDoS Deflection]
+    C -->|OpenTimestamps| E[(Bitcoin Base Layer - Thermodynamic Truth)]
+    E -->|Groth16 ZK Proof| F[EU AI Act Compliance Audit]
+```
+
+## Enterprise Procurement & Quickstart
+
+Autonomous swarms require frictionless machine-to-machine funding. Engineering teams can procure a 30-day, 100-call heuristic scanner API block via our standard fiat Stripe checkout. [Secure an Enterprise API Block](https://bitcoinstratigraphy.com).
+
 **An audit-ready starting point for enterprise AI agents—not another logging dashboard.**
 
 Drop-in Python and LangChain boilerplate for enterprise developers building
