@@ -118,7 +118,7 @@ If you also want to connect Claude Code, Cursor, Codex, or another Streamable
 HTTP MCP client directly to the live 19-tool Bitcoin Stratigraphy server, run:
 
 ```bash
-npx add-mcp '[https://bitcoinstratigraphy.com/mcp](https://bitcoinstratigraphy.com/mcp)'
+npx add-mcp 'https://bitcoinstratigraphy.com/mcp'
 ```
 
 Scanner credits do not authorize separate MCP tool calls, and this Python
@@ -158,7 +158,7 @@ Prerequisites: Git, Python **3.11+**, and pip. This is a Python project;
 `npm install` is not required.
 
 ```bash
-git clone [https://github.com/CharlesStrogish/zk-flight-recorder-template.git](https://github.com/CharlesStrogish/zk-flight-recorder-template.git)
+git clone https://github.com/CharlesStrogish/zk-flight-recorder-template.git
 cd zk-flight-recorder-template
 python -m pip install .
 cp .env.example .env
